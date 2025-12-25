@@ -64,4 +64,6 @@ func main() {
 
     fmt.Println(timesAtZero)
 
+    Main_part2()
+
 }
